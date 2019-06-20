@@ -1,0 +1,20 @@
+{
+    "name": "wangan/algorithm",
+    "description": "algorithm",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangan",
+            "email": "wangan@qutoutiao.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "algorithm\\": "src/Algorithm"
+        }
+    }
+
+}
